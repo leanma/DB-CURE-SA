@@ -1,0 +1,497 @@
+[{
+  "_id": {
+    "$oid": "64d3c494ea33dbc3d7d4982a"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de orina",
+  "Prestador": "Union Personal",
+  "Plan": "Unión Personal Classic",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c5229d266b60542baea6"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de sangre",
+  "Prestador": "Union Personal",
+  "Plan": "Unión Personal Classic",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c5529d266b60542baea8"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de sangre",
+  "Prestador": "Union Personal",
+  "Plan": "Unión Personal Familiar",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c5679d266b60542baeaa"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de orina",
+  "Prestador": "Union Personal",
+  "Plan": "Unión Personal Familiar",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c59b9d266b60542baeac"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de orina",
+  "Prestador": "Osecac",
+  "Plan": "PMO OSECAC",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c5cf9d266b60542baeae"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de orina",
+  "Prestador": "Osecac",
+  "Plan": "Azul OSECAC",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c5eb9d266b60542baeb0"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de sangre",
+  "Prestador": "Osecac",
+  "Plan": "Azul OSECAC",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c6099d266b60542baeb2"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de sangre",
+  "Prestador": "Osecac",
+  "Plan": "PMO OSECAC",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c6db9d266b60542baeb5"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de sangre",
+  "Prestador": "Medicus",
+  "Plan": "Azul",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c6e49d266b60542baeb7"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de sangre",
+  "Prestador": "Medicus",
+  "Plan": "Celeste",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c6ed9d266b60542baeb9"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de sangre",
+  "Prestador": "Medicus",
+  "Plan": "Family",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c6f69d266b60542baebb"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de sangre",
+  "Prestador": "Medicus",
+  "Plan": "Family Flex",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c6fe9d266b60542baebd"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de sangre",
+  "Prestador": "Medicus",
+  "Plan": "Conecta",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c7079d266b60542baebf"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de sangre",
+  "Prestador": "Medicus",
+  "Plan": "Plan Mujer",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c7329d266b60542baec1"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de orina",
+  "Prestador": "Medicus",
+  "Plan": "Azul",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c73a9d266b60542baec3"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de orina",
+  "Prestador": "Medicus",
+  "Plan": "Celeste",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c7479d266b60542baec5"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de orina",
+  "Prestador": "Medicus",
+  "Plan": "Family",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c74f9d266b60542baec7"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de orina",
+  "Prestador": "Medicus",
+  "Plan": "Family Flex",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c7599d266b60542baec9"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de orina",
+  "Prestador": "Medicus",
+  "Plan": "Conecta",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3c7619d266b60542baecb"
+  },
+  "Area": "Laboratorio",
+  "Estudio": "Análisis de orina",
+  "Prestador": "Medicus",
+  "Plan": "Plan Mujer",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3ce4c9d266b60542baecc"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d3ce6f9d266b60542baece"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "Union Personal",
+  "Plan": "Unión Personal Familiar",
+  "Porcentaje Cobertura": 0,
+  "Costo": 25000,
+  "Requiere autorizacion": true
+},
+{
+  "_id": {
+    "$oid": "64d3ceec9d266b60542baed0"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "Union Personal",
+  "Plan": "Unión Personal Classic",
+  "Porcentaje Cobertura": 0,
+  "Costo": 25000,
+  "Requiere autorizacion": true
+},
+{
+  "_id": {
+    "$oid": "64d3cfdf9d266b60542baed2"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "Osecac",
+  "Plan": "PMO OSECAC",
+  "Porcentaje Cobertura": 10,
+  "Costo": 22500,
+  "Requiere autorizacion": true
+},
+{
+  "_id": {
+    "$oid": "64d3cfeb9d266b60542baed4"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "Osecac",
+  "Plan": "Azul OSECAC",
+  "Porcentaje Cobertura": 10,
+  "Costo": 22500,
+  "Requiere autorizacion": true
+},
+{
+  "_id": {
+    "$oid": "64d3d2879d266b60542baed6"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "Medicus",
+  "Plan": "Azul",
+  "Porcentaje Cobertura": 20,
+  "Costo": 20000,
+  "Requiere autorizacion": true
+},
+{
+  "_id": {
+    "$oid": "64d3d28f9d266b60542baed8"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "Medicus",
+  "Plan": "Celeste",
+  "Porcentaje Cobertura": 20,
+  "Costo": 20000,
+  "Requiere autorizacion": true
+},
+{
+  "_id": {
+    "$oid": "64d3d29a9d266b60542baeda"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "Medicus",
+  "Plan": "Family Flex",
+  "Porcentaje Cobertura": 20,
+  "Costo": 20000,
+  "Requiere autorizacion": true
+},
+{
+  "_id": {
+    "$oid": "64d3d2a39d266b60542baedc"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "Medicus",
+  "Plan": "Family",
+  "Porcentaje Cobertura": 20,
+  "Costo": 20000,
+  "Requiere autorizacion": true
+},
+{
+  "_id": {
+    "$oid": "64d3d2ad9d266b60542baede"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "Medicus",
+  "Plan": "Plan Mujer",
+  "Porcentaje Cobertura": 20,
+  "Costo": 20000,
+  "Requiere autorizacion": true
+},
+{
+  "_id": {
+    "$oid": "64d3d2b59d266b60542baee0"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "Medicus",
+  "Plan": "Conecta",
+  "Porcentaje Cobertura": 20,
+  "Costo": 20000,
+  "Requiere autorizacion": true
+},
+{
+  "_id": {
+    "$oid": "64d3d7c99d266b60542baee2"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "OSPOCE",
+  "Plan": "Plan PMO",
+  "Porcentaje Cobertura": 50,
+  "Costo": 12500,
+  "Requiere autorizacion": true
+},
+{
+  "_id": {
+    "$oid": "64d3d7d19d266b60542baee4"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "OSPOCE",
+  "Plan": "Plan 600 OSPOCE Integral",
+  "Porcentaje Cobertura": 50,
+  "Costo": 12500,
+  "Requiere autorizacion": true
+},
+{
+  "_id": {
+    "$oid": "64d3d7da9d266b60542baee6"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "OSPOCE",
+  "Plan": "Plan 700 OSPOCE Integral",
+  "Porcentaje Cobertura": 50,
+  "Costo": 12500,
+  "Requiere autorizacion": true
+},
+{
+  "_id": {
+    "$oid": "64d3d7e39d266b60542baee8"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "OSPOCE",
+  "Plan": "Plan 800 OSPOCE Integral",
+  "Porcentaje Cobertura": 50,
+  "Costo": 12500,
+  "Requiere autorizacion": true
+},
+{
+  "_id": {
+    "$oid": "64d3d7eb9d266b60542baeea"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "OSPOCE",
+  "Plan": "Plan 900 OSPOCE Integral",
+  "Porcentaje Cobertura": 50,
+  "Costo": 12500,
+  "Requiere autorizacion": true
+},
+{
+  "_id": {
+    "$oid": "64d3d7f39d266b60542baeec"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "OSPOCE",
+  "Plan": "Plan 1000 OSPOCE Integral",
+  "Porcentaje Cobertura": 100,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3d8b89d266b60542baeee"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "OSDE",
+  "Plan": "OSDE 210",
+  "Porcentaje Cobertura": 50,
+  "Costo": 12500,
+  "Requiere autorizacion": true
+},
+{
+  "_id": {
+    "$oid": "64d3d8c29d266b60542baef0"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "OSDE",
+  "Plan": "OSDE 310",
+  "Porcentaje Cobertura": 0,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3d8d09d266b60542baef2"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "OSDE",
+  "Plan": "OSDE 410",
+  "Porcentaje Cobertura": 0,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3d8d99d266b60542baef4"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "OSDE",
+  "Plan": "OSDE 450",
+  "Porcentaje Cobertura": 0,
+  "Costo": 0,
+  "Requiere autorizacion": false
+},
+{
+  "_id": {
+    "$oid": "64d3d8e19d266b60542baef6"
+  },
+  "Area": "cardiologia",
+  "Estudio": "ECOCARDIOGRAMA CON STRESS CON RESERVA DE FLUJO CORONARIO",
+  "Prestador": "OSDE",
+  "Plan": "OSDE 510",
+  "Porcentaje Cobertura": 0,
+  "Costo": 0,
+  "Requiere autorizacion": false
+}]
